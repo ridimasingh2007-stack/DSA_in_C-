@@ -1,2 +1,2 @@
 # DSA_in_C-
-Leaner log of DSA fundamentals in C++
+Ongoing learner log of DSA fundamentals in C++
